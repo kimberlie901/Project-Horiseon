@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-N/A
+This Project can be used by bootcamp students and students new to HTML to know the importance of accessiblity and semantic codes and some of the best ways to change codes from div elementes to semantic elements. 
 
 ## Credits
 
