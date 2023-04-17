@@ -13,6 +13,8 @@ Refractor code so that this simple marketing company webpage follows web accessi
 - Accessible alt attributes on image elements 
 - Heading attributes fall in sequential order  
 
+![Horiseon Screenshot](assets/images/Screenshot%202023-04-17%20at%2010.41.11%20AM.png)
+
 ## Installation
 
 - Clone or download the repository to you local machine. 
