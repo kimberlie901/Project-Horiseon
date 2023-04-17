@@ -1,12 +1,34 @@
-# Challenege 1: Horiseon Project
+# Project Horiseon 
 
 ## Description
 
-This Horiseon project was created for Challenege 1 Assignment. This challenege motivated me from the very beginning. As someone with a phsyiscally disabled family member, accessbility is something I think is important in everyday including web and technology accessibility. Accessbility is important for all businesses because never know what type of person is interacting with your business and your website. This was done by changing all the div elements that are not accessible and semantic to semantic elements such as header, nav, main, figure, and section. I also added alt to any img code I deemed necessary. 
+Refractor code so that this simple marketing company webpage follows web accessibility standards. 
+- Improve codebase for long term use 
+- Ensure that all links are functioning correctly 
+- Title element is concise and descriptive 
+- Clean up CSS to make it more efficient
+- Consolidating CSS selectors and properties 
+- Contains semantic HTML elements
+- HTML elements follow a logical structure independent of stying and positioning
+- Accessible alt attributes on image elements 
+- Heading attributes fall in sequential order  
 
 ## Installation
 
-N/A
+- Clone or download the repository to you local machine. 
+- Open the HTML file in your browser
+
+## Technologies Used 
+
+- Visual Studio Code 
+- HTML 
+- CSS 
+
+## User Story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ## Usage
 
