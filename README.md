@@ -42,8 +42,8 @@ This Project can be used by bootcamp students and students new to HTML to know t
 - [Github](https://github.com/kimberlie901/Project-Horiseon)
 ## Credits
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
 
 ## License 
 
