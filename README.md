@@ -44,3 +44,7 @@ This Project can be used by bootcamp students and students new to HTML to know t
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
+
+## License 
+
+Please refer to the LICENSE in the repo. Copyright (c) Kimberlie Guillaume. All rights reserved. 
