@@ -17,8 +17,8 @@ Refractor code so that this simple marketing company webpage follows web accessi
 
 ## Installation
 
-- Clone or download the repository to you local machine. 
-- Open the HTML file in your browser
+1. Clone or download the repository to you local machine. 
+2. Open the HTML file in your browser
 
 ## Technologies Used 
 
@@ -28,9 +28,9 @@ Refractor code so that this simple marketing company webpage follows web accessi
 
 ## User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+- AS A marketing agency
+- I WANT a codebase that follows accessibility standards
+- SO THAT our own site is optimized for search engines
 
 ## Usage
 
