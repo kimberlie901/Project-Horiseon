@@ -34,6 +34,10 @@ SO THAT our own site is optimized for search engines
 
 This Project can be used by bootcamp students and students new to HTML to know the importance of accessiblity and semantic codes and some of the best ways to change codes from div elementes to semantic elements. 
 
+## Websites
+
+- [Deployed Application](https://kimberlie901.github.io/Project-Horiseon/)
+- [Github](https://github.com/kimberlie901/Project-Horiseon)
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
